@@ -1,6 +1,6 @@
 @font-face{
     font-family: 'MyWebFont';
-    src: url('fonts/digital-7 (mono).ttf')  format('truetype')       
+    src: url('digital-7 (mono).ttf')  format('truetype')       
   }
 body{
     background: linear-gradient(to right, #f8f5f5, #e6dddd);
@@ -30,7 +30,7 @@ body{
     color: yellow;
     text-align: right;
     padding: 18px;
-    font-family: 'MyWebFont', sans-serif;
+    font-family: 'MyWebFont', Fallback, sans-serif;
     border: white solid 5px;
     position: relative;
     font-size: 50px;
