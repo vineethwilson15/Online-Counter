@@ -1,6 +1,6 @@
 @font-face{
     font-family: 'MyWebFont';
-    src: url('digital-7 (mono).ttf') format('truetype') 
+    src: url(./css/digital-7 (mono).ttf) format('truetype') 
   }
 body{
     background: linear-gradient(to right, #f8f5f5, #e6dddd);
