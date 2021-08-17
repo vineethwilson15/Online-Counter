@@ -1,5 +1,7 @@
-@import url('http://fonts.cdnfonts.com/css/digital-7-mono');
-
+@font-face{
+    font-family: 'MyWebFont';
+    src: url('fonts/digital-7 (mono).ttf')  format('truetype')       
+  }
 body{
     background: linear-gradient(to right, #f8f5f5, #e6dddd);
     font-size: 30px;
@@ -28,7 +30,7 @@ body{
     color: yellow;
     text-align: right;
     padding: 18px;
-    font-family: 'Digital-7 Mono', sans-serif;
+    font-family: 'MyWebFont', sans-serif;
     border: white solid 5px;
     position: relative;
     font-size: 50px;
