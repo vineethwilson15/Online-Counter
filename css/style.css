@@ -1,9 +1,7 @@
 body{
     background: linear-gradient(to right, #f8f5f5, #e6dddd);
     font-size: 30px;
-    font-family: 'Digital-7 Mono', sans-serif;
-    font-family: 'Digital-7', sans-serif;
-    font-family: 'Digital-7 Italic', sans-serif;                                           
+    font-family: 'Digital-7 Mono', sans-serif;                                       
 }
 .align{
     transform: translate(-50%,-50%);
